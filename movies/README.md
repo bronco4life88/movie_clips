@@ -12,8 +12,10 @@ look at their trailers.
 ===============
 
 1.Open folder called "movies"
-2.Click on file fresh_tomatoes.html
-3.Congrats you will see the project run!
+2.Click on file entertainment_center.py
+3.Open with the file with text editor or IDLE.
+4.Execute code
+5.Congrats you can see my favorite movies.
 
 # 3. Langauges used
 ===================

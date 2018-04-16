@@ -31,7 +31,12 @@ return_of_the_jedi = media.Movie("Return of the Jedi",
                                  "https://goo.gl/AMsqCE",
                                  "https://www.youtube.com/watch?v=7L8p7_SLzvU")
 
-movies = [force_awakens new_hope rogue_one last_jedi empire return_of_the_jedi]
+movies = [force_awakens,
+          new_hope,
+          rogue_one,
+          last_jedi,
+          empire,
+          return_of_the_jedi]
 '#Creates a list for each movie'
 
 fresh_tomatoes.open_movies_page(movies)
