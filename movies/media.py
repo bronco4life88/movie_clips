@@ -4,8 +4,13 @@ import webbrowser
 class Movie ():
     '''Class Movie Descripition:
 
-    def __init__ : Intializes varaibles to assinged,
-    data such as movie title,storyline,images and youtube url
+    def __init__ : Intializes varaibles to assinged.
+    -self.title = movie_title(STR): requires a string
+    -self.storyline = movie_storyline(STR): requires a string
+    -self.poster_image_url = poster_image(STR): requires a
+     url from a website wrapped in a string
+    -self.trailer_youtube_url = trailer_youtube(STR):
+     requires a link from youtube url wrapped in a string
 
     def show_trailer : Opens web browser to,
     show trailer by clicking a image. '''
