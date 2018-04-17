@@ -2,15 +2,13 @@ import webbrowser
 
 
 class Movie ():
-    '''
+    '''Class Movie Descripition:
 
-    Class Movie Descripition:
+    def __init__ : Intializes varaibles to assinged,
+    data such as movie title,storyline,images and youtube url
 
-    def __init__ : Intializes varaibles to assinged data such as movie title,storyline,images and youtube url
-
-    def show_trailer : Opens web browser to show trailer by clicking a image. 
-
-    '''
+    def show_trailer : Opens web browser to,
+    show trailer by clicking a image. '''
 
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
